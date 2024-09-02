@@ -1,0 +1,275 @@
+Respondent ID,Collector ID,Start Date,End Date,IP Address,Email Address,First Name,Last Name,Custom Data 1,collector_type_source,When was the last time you searched for answers to your questions online?,Which of the following tools did you use to find answers to your questions? Select the one you used first if you used multiple.,,Gender,Age,Major US Region,Device,Household Income
+,,,,,,,,,,Response,Response,Other (please specify),,,,,
+118681650106,457656552,08/30/2024 06:59:43 PM,08/30/2024 07:00:11 PM,,,,,6e66143644b972c89d218da0a3,smc,This month,Google,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681650064,457656552,08/30/2024 06:59:43 PM,08/30/2024 07:00:02 PM,,,,,d53323fb0ff3ff9326e9d0504c,smc,Last hour,Google,,male,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681650037,457656552,08/30/2024 06:59:38 PM,08/30/2024 06:59:56 PM,,,,,61276c081521092937833829cd,smc,This month,Google,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681650019,457656552,08/30/2024 06:59:16 PM,08/30/2024 06:59:53 PM,,,,,689ff9d3e3404307c7f262f495,smc,This month,Google,,male,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681650011,457656552,08/30/2024 06:58:56 PM,08/30/2024 06:59:50 PM,,,,,abed51b848b9174e720b5c68cf,smc,Today,Claude,,male,45_to_60,pacific,android_mobile,125000_to_149999
+118681649963,457656552,08/30/2024 06:59:21 PM,08/30/2024 06:59:39 PM,,,,,9eb2edb1f10e387ae0a77cbfad,smc,This month,Google,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681649930,457656552,08/30/2024 06:59:07 PM,08/30/2024 06:59:31 PM,,,,,08a28a3f5cd30dc883ecb56b24,smc,Last hour,Google,,male,60_above,south_atlantic,android_mobile,125000_to_149999
+118681649920,457656552,08/30/2024 06:58:22 PM,08/30/2024 06:59:29 PM,,,,,14c50569ec1a8c4131de4681d5,smc,Today,Google,,male,45_to_60,middle_atlantic,android_mobile,125000_to_149999
+118681649909,457656552,08/30/2024 06:58:30 PM,08/30/2024 06:59:25 PM,,,,,7d27e65519c0bc29bc73ce10e8,smc,Today,Google,,male,45_to_60,middle_atlantic,android_mobile,125000_to_149999
+118681649805,457656552,08/30/2024 06:58:42 PM,08/30/2024 06:58:59 PM,,,,,cec58132e1a481fa5ba4a6b029,smc,This week,Google,,male,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681649776,457656552,08/30/2024 06:58:38 PM,08/30/2024 06:58:52 PM,,,,,53911cd970307df7dc7c22352a,smc,Last hour,Google,,male,45_to_60,south_atlantic,ios_mobile,150000_to_174999
+118681649676,457656552,08/30/2024 06:58:11 PM,08/30/2024 06:58:31 PM,,,,,b11ef17a6bbf51a0f5f2abcf6b,smc,Today,ChatGPT,,male,45_to_60,pacific,android_mobile,125000_to_149999
+118681649573,457656552,08/30/2024 06:57:57 PM,08/30/2024 06:58:07 PM,,,,,0fef74e67ad6e4cd9290595154,smc,Last hour,Bing,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681649442,457656552,08/30/2024 06:57:28 PM,08/30/2024 06:57:41 PM,,,,,2130382efbeec26b1d7f370146,smc,Last hour,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681649199,457656552,08/30/2024 06:56:18 PM,08/30/2024 06:56:46 PM,,,,,31c602ba90685da29d08947b5f,smc,Today,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681647010,457656552,08/30/2024 06:48:52 PM,08/30/2024 06:49:16 PM,,,,,6b6f5b165c922f3bf6c38be7b4,smc,Today,Google,,male,30_to_44,south_atlantic,android_mobile,150000_to_174999
+118681646979,457656552,08/30/2024 06:48:51 PM,08/30/2024 06:49:09 PM,,,,,c11000e7eac2c5a91b6c45cfb9,smc,Today,Google,,male,30_to_44,middle_atlantic,android_mobile,125000_to_149999
+118681646947,457656552,08/30/2024 06:48:49 PM,08/30/2024 06:49:03 PM,,,,,724247b8e217761f603e37b226,smc,Today,Google,,male,30_to_44,east_north_central,android_mobile,75000_to_99999
+118681646933,457656552,08/30/2024 06:48:45 PM,08/30/2024 06:48:58 PM,,,,,850ce96e6f8d0262b3b0f26777,smc,Today,Google,,male,30_to_44,east_north_central,ios_mobile,75000_to_99999
+118681646874,457656552,08/30/2024 06:48:32 PM,08/30/2024 06:48:48 PM,,,,,75a4c7f3902f9408457b8b58d2,smc,Today,Google,,male,30_to_44,new_england,ios_mobile,75000_to_99999
+118681646872,457656552,08/30/2024 06:48:28 PM,08/30/2024 06:48:48 PM,,,,,23a917d01bcec542bb198af501,smc,Today,Google,,male,30_to_44,pacific,android_mobile,200000_and_up
+118681646854,457656552,08/30/2024 06:48:32 PM,08/30/2024 06:48:43 PM,,,,,7203cb817e07f0609034c9300c,smc,This week,Google,,male,30_to_44,south_atlantic,android_mobile,150000_to_174999
+118681646809,457656552,08/30/2024 06:48:13 PM,08/30/2024 06:48:36 PM,,,,,44e627342dbe91e61513074197,smc,Last hour,ChatGPT,,male,30_to_44,pacific,android_mobile,125000_to_149999
+118681646806,457656552,08/30/2024 06:48:10 PM,08/30/2024 06:48:36 PM,,,,,e57a6454bb2bfcc1fc07f78a25,smc,Today,Google,,male,30_to_44,pacific,android_mobile,50000_to_74999
+118681646685,457656552,08/30/2024 06:47:35 PM,08/30/2024 06:48:10 PM,,,,,7cccb2a8bc4f1e2750cb9cd6f2,smc,Yesterday,Perplexity,,male,30_to_44,,android_mobile,150000_to_174999
+118681646635,457656552,08/30/2024 06:47:40 PM,08/30/2024 06:48:02 PM,,,,,94b680873c163c6590e49b9498,smc,Yesterday,Google,,male,30_to_44,,ios_mobile,0_to_9999
+118681646391,457656552,08/30/2024 06:46:46 PM,08/30/2024 06:47:11 PM,,,,,ac2ebbdc04bf1e7bebd4549976,smc,Yesterday,Google,,male,30_to_44,pacific,ios_mobile,100000_to_124999
+118681643359,457656552,08/30/2024 06:35:09 PM,08/30/2024 06:35:49 PM,,,,,e879c16b122ddee998abb771c6,smc,Yesterday,Perplexity,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681643324,457656552,08/30/2024 06:35:20 PM,08/30/2024 06:35:41 PM,,,,,8cb61a317e0c87f1bcb08f7dd8,smc,Last hour,Google,,male,60_above,middle_atlantic,android_mobile,175000_to_199999
+118681643258,457656552,08/30/2024 06:35:14 PM,08/30/2024 06:35:29 PM,,,,,50cbb0dcd35b4da74d7093b539,smc,Today,ChatGPT,,male,45_to_60,pacific,ios_mobile,25000_to_49999
+118681643245,457656552,08/30/2024 06:35:14 PM,08/30/2024 06:35:24 PM,,,,,2c7c9749ad0393c52c44de3489,smc,Last hour,Claude,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681642648,457656552,08/30/2024 06:31:50 PM,08/30/2024 06:33:27 PM,,,,,568478598d563e2079e960b6e5,smc,Last hour,ChatGPT,,male,45_to_60,south_atlantic,android_mobile,125000_to_149999
+118681642074,457656552,08/30/2024 06:31:04 PM,08/30/2024 06:31:20 PM,,,,,3fb1e0c79cf420ecf48ab766ec,smc,Today,Google,,male,30_to_44,west_south_central,ios_mobile,50000_to_74999
+118681639891,457656552,08/30/2024 06:23:27 PM,08/30/2024 06:23:44 PM,,,,,7b2924268e98e43e5ad339b333,smc,Yesterday,Perplexity,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681639288,457656552,08/30/2024 06:21:26 PM,08/30/2024 06:21:36 PM,,,,,ee4cd98782e3b9381dcb478922,smc,Today,ChatGPT,,male,18_to_29,south_atlantic,ios_mobile,75000_to_99999
+118681639111,457656552,08/30/2024 06:20:17 PM,08/30/2024 06:20:57 PM,,,,,e29636c268609691def3022b6b,smc,Today,Google,,male,30_to_44,pacific,android_mobile,125000_to_149999
+118681637201,457656552,08/30/2024 06:13:54 PM,08/30/2024 06:14:16 PM,,,,,299ed40067d14df9a9b7e794f3,smc,Yesterday,DuckDuckGo,,male,30_to_44,middle_atlantic,android_mobile,200000_and_up
+118681635161,457656552,08/30/2024 06:07:11 PM,08/30/2024 06:07:32 PM,,,,,0f6db43036bae6efb78f7d1b4a,smc,Last hour,Google,,female,45_to_60,new_england,android_mobile,no_answer
+118681634978,457656552,08/30/2024 06:06:37 PM,08/30/2024 06:07:00 PM,,,,,d3e936e17bd556f502fb43655c,smc,Last hour,Other (please specify),Safari,female,45_to_60,mountain,ios_mobile,50000_to_74999
+118681634842,457656552,08/30/2024 06:06:16 PM,08/30/2024 06:06:32 PM,,,,,f2adcae7accbec625fbe2fd49c,smc,Yesterday,Google,,female,45_to_60,new_england,android_mobile,10000_to_24999
+118681634691,457656552,08/30/2024 06:05:33 PM,08/30/2024 06:06:03 PM,,,,,99d8305cf1ae742c043179396c,smc,Yesterday,ChatGPT,,female,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681634626,457656552,08/30/2024 06:05:29 PM,08/30/2024 06:05:49 PM,,,,,2119d3eefcb447a0e49fe6829d,smc,This week,Claude,,male,45_to_60,pacific,android_mobile,125000_to_149999
+118681634584,457656552,08/30/2024 06:05:23 PM,08/30/2024 06:05:40 PM,,,,,43fdb2c297c0e4d2e685294323,smc,Today,Google,,female,45_to_60,pacific,android_mobile,25000_to_49999
+118681634568,457656552,08/30/2024 06:05:14 PM,08/30/2024 06:05:36 PM,,,,,bb55858740c6d9b380ae68c486,smc,Today,Google,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681634505,457656552,08/30/2024 06:04:37 PM,08/30/2024 06:05:23 PM,,,,,1e3767e143267e761168a79d84,smc,Today,Google,,female,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681634368,457656552,08/30/2024 06:04:11 PM,08/30/2024 06:04:59 PM,,,,,4198155b2aabd5ab0a227c719c,smc,Last hour,Google,,female,45_to_60,pacific,ios_mobile,no_answer
+118681634272,457656552,08/30/2024 06:04:19 PM,08/30/2024 06:04:38 PM,,,,,83757f96abfdf211bcc9c00d55,smc,This week,Google,,female,45_to_60,east_north_central,ios_mobile,0_to_9999
+118681634160,457656552,08/30/2024 06:04:03 PM,08/30/2024 06:04:15 PM,,,,,f54ca3e44195c64f10fd1cd56e,smc,Today,Google,,female,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681634111,457656552,08/30/2024 06:03:46 PM,08/30/2024 06:04:06 PM,,,,,627e14795aa502b9e2d48e69aa,smc,Today,Google,,female,45_to_60,mountain,ios_mobile,100000_to_124999
+118681633836,457656552,08/30/2024 06:02:43 PM,08/30/2024 06:03:12 PM,,,,,1e0080dd1d2b35fa41c1adcd2c,smc,Today,Google,,female,45_to_60,pacific,android_mobile,50000_to_74999
+118681633741,457656552,08/30/2024 06:01:53 PM,08/30/2024 06:02:52 PM,,,,,bead1600dce400029493557853,smc,Today,Google,,male,30_to_44,pacific,android_mobile,175000_to_199999
+118681633636,457656552,08/30/2024 06:02:09 PM,08/30/2024 06:02:31 PM,,,,,c47f34f97af4a98a1367ec087e,smc,Today,Google,,male,30_to_44,middle_atlantic,android_mobile,100000_to_124999
+118681633624,457656552,08/30/2024 06:01:49 PM,08/30/2024 06:02:29 PM,,,,,8093613657caff7aef8b62b57a,smc,Today,Yahoo,,male,30_to_44,middle_atlantic,android_mobile,125000_to_149999
+118681633583,457656552,08/30/2024 06:01:58 PM,08/30/2024 06:02:20 PM,,,,,426660989ac90e4dfbd28b156b,smc,Today,Google,,female,60_above,south_atlantic,pc_mac,75000_to_99999
+118681633523,457656552,08/30/2024 06:01:56 PM,08/30/2024 06:02:11 PM,,,,,d4e4830c0b14efa82d740408dc,smc,Today,Google,,male,30_to_44,south_atlantic,android_mobile,100000_to_124999
+118681633492,457656552,08/30/2024 06:01:50 PM,08/30/2024 06:02:05 PM,,,,,61dd8de68c6392fd02b3e3b3be,smc,Last hour,Google,,male,30_to_44,mountain,android_mobile,100000_to_124999
+118681633414,457656552,08/30/2024 06:01:16 PM,08/30/2024 06:01:50 PM,,,,,742037a3f7fdbbefde35f4796d,smc,Today,Google,,female,45_to_60,west_north_central,ios_mobile,100000_to_124999
+118681633363,457656552,08/30/2024 06:01:10 PM,08/30/2024 06:01:40 PM,,,,,68ff46c19a985d5fbae4f31f6c,smc,Last hour,Bing,,female,45_to_60,south_atlantic,ios_mobile,50000_to_74999
+118681633056,457656552,08/30/2024 06:00:25 PM,08/30/2024 06:00:42 PM,,,,,e472f8ece0b4c988328833a09b,smc,Today,Yahoo,,female,45_to_60,pacific,android_mobile,175000_to_199999
+118681633049,457656552,08/30/2024 06:00:03 PM,08/30/2024 06:00:37 PM,,,,,c349541ecc5609197b479e248e,smc,Today,Google,,female,45_to_60,east_south_central,ios_mobile,25000_to_49999
+118681632939,457656552,08/30/2024 05:59:25 PM,08/30/2024 06:00:25 PM,,,,,db87fa9d56ae4e5a67958a7362,smc,Last week,Google,,female,45_to_60,mountain,ios_mobile,50000_to_74999
+118681632822,457656552,08/30/2024 05:59:23 PM,08/30/2024 05:59:46 PM,,,,,d68b82071c37e9b599cde65b47,smc,Today,Yahoo,,female,45_to_60,middle_atlantic,ios_mobile,125000_to_149999
+118681632727,457656552,08/30/2024 05:59:02 PM,08/30/2024 05:59:25 PM,,,,,6074bc860be8755b74861763c7,smc,Today,Google,,female,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681632564,457656552,08/30/2024 05:58:39 PM,08/30/2024 05:58:55 PM,,,,,3a0e33134e0f9e1300122a9973,smc,Today,Yahoo,,female,45_to_60,pacific,ios_mobile,50000_to_74999
+118681632037,457656552,08/30/2024 05:56:50 PM,08/30/2024 05:57:13 PM,,,,,c87c171af80e1eecd239c34d3c,smc,Today,DuckDuckGo,,female,45_to_60,west_north_central,ios_mobile,25000_to_49999
+118681631816,457656552,08/30/2024 05:56:10 PM,08/30/2024 05:56:25 PM,,,,,5c3cecf9fdf579eec260db2747,smc,Last hour,Google,,male,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681630188,457656552,08/30/2024 05:50:52 PM,08/30/2024 05:51:02 PM,,,,,7c4e392cdc5874b3e825c50e31,smc,Today,Claude,,female,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681629830,457656552,08/30/2024 05:49:36 PM,08/30/2024 05:49:50 PM,,,,,b7c73d5895b51dd4d37c871ac5,smc,Last hour,Google,,female,45_to_60,east_north_central,ios_mobile,200000_and_up
+118681629060,457656552,08/30/2024 05:47:08 PM,08/30/2024 05:47:21 PM,,,,,e8060b273cc7c743d6a18149ea,smc,Last hour,Google,,male,45_to_60,south_atlantic,android_mobile,50000_to_74999
+118681628925,457656552,08/30/2024 05:46:44 PM,08/30/2024 05:46:54 PM,,,,,13ec054779f17097e3ff679d3e,smc,Last week,Google,,male,30_to_44,east_south_central,android_mobile,75000_to_99999
+118681627664,457656552,08/30/2024 05:42:37 PM,08/30/2024 05:42:58 PM,,,,,499f6d68c118c7450643291ee5,smc,Last hour,Bing,,female,60_above,mountain,ios_mobile,50000_to_74999
+118681627659,457656552,08/30/2024 05:42:31 PM,08/30/2024 05:42:56 PM,,,,,75c145cbee81b67dd13b885327,smc,Last hour,Google,,female,45_to_60,west_north_central,ios_mobile,50000_to_74999
+118681627105,457656552,08/30/2024 05:40:46 PM,08/30/2024 05:41:09 PM,,,,,687add5c7d80223a796120ce8b,smc,Last hour,ChatGPT,,male,30_to_44,pacific,ios_mobile,10000_to_24999
+118681626357,457656552,08/30/2024 05:38:26 PM,08/30/2024 05:38:43 PM,,,,,16a54620ca27ff7e0116adb480,smc,Last hour,Google,,male,45_to_60,west_south_central,android_mobile,200000_and_up
+118681625880,457656552,08/30/2024 05:36:58 PM,08/30/2024 05:37:12 PM,,,,,a803dd3533875e18f28c8488f7,smc,This week,Google,,male,18_to_29,mountain,android_mobile,25000_to_49999
+118681625101,457656552,08/30/2024 05:34:27 PM,08/30/2024 05:34:44 PM,,,,,1af79aef389dc25d87d825e165,smc,Last hour,Google,,female,60_above,west_south_central,android_mobile,25000_to_49999
+118681625073,457656552,08/30/2024 05:34:20 PM,08/30/2024 05:34:40 PM,,,,,c0cdca178df132534b1e49ffd7,smc,Today,Google,,female,60_above,middle_atlantic,android_mobile,0_to_9999
+118681623438,457656552,08/30/2024 05:29:15 PM,08/30/2024 05:29:35 PM,,,,,2695607c4032dd16a5f10c7c4f,smc,Today,Google,,male,45_to_60,west_south_central,android_mobile,50000_to_74999
+118681622949,457656552,08/30/2024 05:27:29 PM,08/30/2024 05:27:59 PM,,,,,5ca733ca061e8fafbbcd763450,smc,Today,Google,,female,45_to_60,south_atlantic,android_mobile,0_to_9999
+118681621909,457656552,08/30/2024 05:24:27 PM,08/30/2024 05:24:44 PM,,,,,e11135e07561a9bbd67b3879e0,smc,Today,Bing,,male,30_to_44,middle_atlantic,android_mobile,0_to_9999
+118681620654,457656552,08/30/2024 05:20:33 PM,08/30/2024 05:20:58 PM,,,,,164c510e764096345910ff53e5,smc,Last hour,Google,,male,45_to_60,south_atlantic,ios_mobile,75000_to_99999
+118681618488,457656552,08/30/2024 05:13:57 PM,08/30/2024 05:14:14 PM,,,,,7de378abbf5a2c955737ae7e0d,smc,Today,Google,,male,45_to_60,middle_atlantic,android_mobile,125000_to_149999
+118681617417,457656552,08/30/2024 05:10:46 PM,08/30/2024 05:11:05 PM,,,,,5bdad39c7ec4661a006ddf25ad,smc,Yesterday,Google,,male,45_to_60,west_south_central,ios_mobile,25000_to_49999
+118681616068,457656552,08/30/2024 05:06:27 PM,08/30/2024 05:06:51 PM,,,,,35775b8e74895c0b9364d14e27,smc,Today,Google,,male,30_to_44,south_atlantic,android_mobile,175000_to_199999
+118681615784,457656552,08/30/2024 05:05:38 PM,08/30/2024 05:06:05 PM,,,,,bfdf8877f1bfe7a2c1b25f30d2,smc,Last hour,Google,,male,45_to_60,west_south_central,android_mobile,25000_to_49999
+118681615742,457656552,08/30/2024 05:05:20 PM,08/30/2024 05:05:57 PM,,,,,2e5330448259009f8b10e39e78,smc,Today,Google,,male,30_to_44,pacific,android_mobile,50000_to_74999
+118681615167,457656552,08/30/2024 05:03:51 PM,08/30/2024 05:04:09 PM,,,,,e70721b06472e1314a2ea08fe9,smc,Yesterday,Google,,female,60_above,east_south_central,android_mobile,25000_to_49999
+118681615078,457656552,08/30/2024 05:03:21 PM,08/30/2024 05:03:56 PM,,,,,ecc94316c4be8f9089374293e6,smc,Last week,Other,,female,60_above,east_north_central,ios_mobile,10000_to_24999
+118681614888,457656552,08/30/2024 05:01:54 PM,08/30/2024 05:03:20 PM,,,,,5cba12067d0877c6d70edcf87d,smc,Yesterday,Google,,male,30_to_44,pacific,android_mobile,200000_and_up
+118681614798,457656552,08/30/2024 05:02:52 PM,08/30/2024 05:03:05 PM,,,,,c767db5a7ebeaef5e3252dc754,smc,Last hour,Google,,female,60_above,new_england,pc_mac,no_answer
+118681613799,457656552,08/30/2024 04:59:52 PM,08/30/2024 05:00:14 PM,,,,,c9ff8b3c84a4a07ae2c94ee260,smc,Last hour,Google,,male,30_to_44,mountain,android_mobile,100000_to_124999
+118681613755,457656552,08/30/2024 04:59:48 PM,08/30/2024 05:00:08 PM,,,,,8a4c66b67cdc0728ce3458d479,smc,Today,Perplexity,,male,18_to_29,middle_atlantic,android_mobile,200000_and_up
+118681612681,457656552,08/30/2024 04:56:25 PM,08/30/2024 04:56:46 PM,,,,,0da12492535448f78cf5274c02,smc,Last hour,Google,,male,30_to_44,south_atlantic,ios_mobile,175000_to_199999
+118681611955,457656552,08/30/2024 04:54:30 PM,08/30/2024 04:54:42 PM,,,,,dc8cafa04b276454690890c6e2,smc,Last hour,Google,,male,30_to_44,pacific,ios_mobile,25000_to_49999
+118681611895,457656552,08/30/2024 04:53:45 PM,08/30/2024 04:54:33 PM,,,,,31422efdc99e488167ff724b87,smc,Last hour,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681611689,457656552,08/30/2024 04:53:38 PM,08/30/2024 04:54:30 PM,,,,,843a4a8fe5bbe57784f26e9ac7,smc,Yesterday,Bing,,male,60_above,south_atlantic,pc_windows,no_answer
+118681611481,457656552,08/30/2024 04:53:00 PM,08/30/2024 04:53:17 PM,,,,,e0b61f6ee376b972ab7cfe688e,smc,Today,Google,,male,30_to_44,east_south_central,ios_mobile,10000_to_24999
+118681610963,457656552,08/30/2024 04:51:05 PM,08/30/2024 04:51:39 PM,,,,,3a16e826d335671b5bb1de8b99,smc,Today,Google,,female,18_to_29,pacific,android_mobile,0_to_9999
+118681610912,457656552,08/30/2024 04:51:19 PM,08/30/2024 04:51:33 PM,,,,,edbf8f3506a52fa0c5d75d0f8e,smc,Today,Google,,female,18_to_29,middle_atlantic,ios_mobile,100000_to_124999
+118681610711,457656552,08/30/2024 04:50:37 PM,08/30/2024 04:51:00 PM,,,,,fd6e2864df118c4426c480c823,smc,Today,ChatGPT,,female,30_to_44,east_south_central,android_mobile,75000_to_99999
+118681610649,457656552,08/30/2024 04:50:43 PM,08/30/2024 04:50:50 PM,,,,,ea148b956c0f65b2f0a04c3208,smc,This month,Bing,,female,18_to_29,pacific,ios_mobile,75000_to_99999
+118681610637,457656552,08/30/2024 04:50:29 PM,08/30/2024 04:50:47 PM,,,,,8c9607491aaf0810d6cca32356,smc,This month,Google,,female,30_to_44,middle_atlantic,ios_mobile,50000_to_74999
+118681610614,457656552,08/30/2024 04:50:28 PM,08/30/2024 04:50:43 PM,,,,,699d08f802bf4b6c47a915cbdb,smc,This week,ChatGPT,,female,30_to_44,south_atlantic,android_mobile,125000_to_149999
+118681610592,457656552,08/30/2024 04:50:22 PM,08/30/2024 04:50:40 PM,,,,,a293aa6282fd76f75323a46002,smc,Yesterday,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681610581,457656552,08/30/2024 04:50:27 PM,08/30/2024 04:50:39 PM,,,,,d04ff31b8ae635eeb38fa9e04a,smc,Last hour,Google,,female,30_to_44,south_atlantic,ios_mobile,25000_to_49999
+118681610572,457656552,08/30/2024 04:50:10 PM,08/30/2024 04:50:36 PM,,,,,97936e88feec73a1093967d337,smc,Today,Google,,female,30_to_44,pacific,ios_mobile,50000_to_74999
+118681610501,457656552,08/30/2024 04:49:31 PM,08/30/2024 04:50:27 PM,,,,,b0bf57586b829f34b740e66be7,smc,Today,Google,,female,18_to_29,west_south_central,ios_mobile,0_to_9999
+118681610411,457656552,08/30/2024 04:49:48 PM,08/30/2024 04:50:10 PM,,,,,2f62778417a920f930848eb4c0,smc,This month,Google,,female,30_to_44,south_atlantic,android_mobile,75000_to_99999
+118681610398,457656552,08/30/2024 04:49:51 PM,08/30/2024 04:50:10 PM,,,,,edd46ce3c44b619491ac59f739,smc,Today,Google,,female,30_to_44,west_south_central,ios_mobile,25000_to_49999
+118681610389,457656552,08/30/2024 04:49:53 PM,08/30/2024 04:50:05 PM,,,,,4a46aa66154c658cd6c9c5819a,smc,Yesterday,Google,,female,30_to_44,east_north_central,ios_mobile,75000_to_99999
+118681610296,457656552,08/30/2024 04:49:29 PM,08/30/2024 04:49:49 PM,,,,,8da9a470247523e6bac26f1dea,smc,Last hour,Google,,female,18_to_29,middle_atlantic,android_mobile,200000_and_up
+118681610256,457656552,08/30/2024 04:49:31 PM,08/30/2024 04:49:42 PM,,,,,723ff303c8129f4d475bdd52fc,smc,Last hour,Google,,female,18_to_29,new_england,ios_mobile,50000_to_74999
+118681610219,457656552,08/30/2024 04:49:24 PM,08/30/2024 04:49:38 PM,,,,,82db578c1ed9e7720b86f53559,smc,Last hour,Google,,female,30_to_44,east_north_central,ios_mobile,150000_to_174999
+118681610154,457656552,08/30/2024 04:49:03 PM,08/30/2024 04:49:22 PM,,,,,3579ccf146994eaa7de6f6e3da,smc,Today,ChatGPT,,male,30_to_44,,android_mobile,100000_to_124999
+118681610071,457656552,08/30/2024 04:48:56 PM,08/30/2024 04:49:08 PM,,,,,58fea527d75f239fc2cbdb1d7c,smc,Yesterday,Google,,female,30_to_44,middle_atlantic,android_mobile,100000_to_124999
+118681609258,457656552,08/30/2024 04:46:12 PM,08/30/2024 04:46:38 PM,,,,,a76be05f2efd23cc987185ad2f,smc,Today,Google,,female,60_above,middle_atlantic,ios_mobile,25000_to_49999
+118681609227,457656552,08/30/2024 04:46:13 PM,08/30/2024 04:46:33 PM,,,,,84cd3230864f479a2b7f763486,smc,Last hour,Google,,female,45_to_60,west_north_central,android_mobile,25000_to_49999
+118681608318,457656552,08/30/2024 04:43:37 PM,08/30/2024 04:43:53 PM,,,,,6b6278f77d219c4d48cddfb7f0,smc,Last hour,Google,,female,30_to_44,mountain,ios_mobile,10000_to_24999
+118681607313,457656552,08/30/2024 04:40:41 PM,08/30/2024 04:41:01 PM,,,,,9d8116f9c3de6887b208235b39,smc,Yesterday,Google,,male,18_to_29,south_atlantic,android_mobile,75000_to_99999
+118681607087,457656552,08/30/2024 04:40:13 PM,08/30/2024 04:40:23 PM,,,,,f813ff8b452c40273014f8d8fe,smc,Last hour,Google,,male,30_to_44,east_north_central,android_mobile,125000_to_149999
+118681606684,457656552,08/30/2024 04:38:56 PM,08/30/2024 04:39:17 PM,,,,,fa30c3c55490d3e43f2179a6a8,smc,Last hour,Google,,female,45_to_60,east_north_central,android_mobile,10000_to_24999
+118681606598,457656552,08/30/2024 04:38:19 PM,08/30/2024 04:39:04 PM,,,,,b9d05a9bd661d595ed489f2bf1,smc,Last hour,Google,,female,60_above,west_north_central,ios_mobile,50000_to_74999
+118681606142,457656552,08/30/2024 04:37:10 PM,08/30/2024 04:37:51 PM,,,,,8340d151783e5e8b8c11cd5172,smc,This week,ChatGPT,,female,30_to_44,middle_atlantic,ios_mobile,10000_to_24999
+118681605887,457656552,08/30/2024 04:36:50 PM,08/30/2024 04:37:05 PM,,,,,9d6fa9ec788f2c771db02a2324,smc,Today,Google,,male,18_to_29,south_atlantic,android_mobile,50000_to_74999
+118681605380,457656552,08/30/2024 04:35:12 PM,08/30/2024 04:35:41 PM,,,,,83cd6324cf9236df7a11bb1e05,smc,Today,DuckDuckGo,,male,60_above,east_north_central,ios_mobile,10000_to_24999
+118681605344,457656552,08/30/2024 04:35:18 PM,08/30/2024 04:35:36 PM,,,,,754cbbf9cad1764de241faee22,smc,Last hour,DuckDuckGo,,male,45_to_60,middle_atlantic,android_mobile,150000_to_174999
+118681605008,457656552,08/30/2024 04:34:20 PM,08/30/2024 04:34:38 PM,,,,,5db37b3e9d31f1158c2e869cf0,smc,Today,Google,,female,18_to_29,south_atlantic,android_mobile,25000_to_49999
+118681604171,457656552,08/30/2024 04:32:11 PM,08/30/2024 04:32:23 PM,,,,,4130f5118be99665f21215197a,smc,Last hour,Google,,female,30_to_44,west_south_central,android_mobile,75000_to_99999
+118681604011,457656552,08/30/2024 04:31:41 PM,08/30/2024 04:31:58 PM,,,,,057e3970f16905994856e29fe2,smc,Today,Google,,female,30_to_44,south_atlantic,ios_mobile,25000_to_49999
+118681603713,457656552,08/30/2024 04:30:59 PM,08/30/2024 04:31:14 PM,,,,,ddb0cac1d6b5863134c835827f,smc,Today,Google,,female,18_to_29,west_south_central,android_mobile,100000_to_124999
+118681603494,457656552,08/30/2024 04:30:21 PM,08/30/2024 04:30:42 PM,,,,,ff39397432b3e7ef615d93fbd0,smc,Yesterday,Google,,female,45_to_60,east_north_central,ios_mobile,10000_to_24999
+118681603367,457656552,08/30/2024 04:28:47 PM,08/30/2024 04:30:26 PM,,,,,6195c0a983cbca82dd80f52b94,smc,Today,Bing,,female,30_to_44,pacific,android_mobile,125000_to_149999
+118681602963,457656552,08/30/2024 04:29:12 PM,08/30/2024 04:29:21 PM,,,,,343556e4d7ce2a8f53825beb1e,smc,Last hour,Google,,female,30_to_44,new_england,ios_mobile,50000_to_74999
+118681602365,457656552,08/30/2024 04:26:45 PM,08/30/2024 04:27:45 PM,,,,,b8d508b4f1108d06df12ac1539,smc,Today,Google,,male,30_to_44,west_south_central,ios_mobile,100000_to_124999
+118681602215,457656552,08/30/2024 04:27:10 PM,08/30/2024 04:27:22 PM,,,,,9279e02e90bfe940173e61d823,smc,This week,Google,,male,30_to_44,middle_atlantic,android_mobile,50000_to_74999
+118681602170,457656552,08/30/2024 04:26:54 PM,08/30/2024 04:27:14 PM,,,,,f4bd3a012bfc64a414c9e98827,smc,Today,Google,,male,45_to_60,new_england,ios_mobile,100000_to_124999
+118681601934,457656552,08/30/2024 04:25:12 PM,08/30/2024 04:26:42 PM,,,,,bd45a9fc04c4ea66d67d9a8557,smc,Yesterday,Google,,male,30_to_44,south_atlantic,android_mobile,125000_to_149999
+118681600179,457656552,08/30/2024 04:22:07 PM,08/30/2024 04:22:33 PM,,,,,7756f4e199432874ce6d951cf2,smc,Today,Google,,female,60_above,south_atlantic,ios_mobile,10000_to_24999
+118681599237,457656552,08/30/2024 04:19:35 PM,08/30/2024 04:20:13 PM,,,,,3084d1ed8b3b9006a59213973e,smc,Today,Google,,male,18_to_29,east_south_central,ios_mobile,25000_to_49999
+118681599159,457656552,08/30/2024 04:19:07 PM,08/30/2024 04:20:00 PM,,,,,7a39112cdd44f8b6d3e1f2103c,smc,Yesterday,Claude,,male,18_to_29,south_atlantic,android_mobile,25000_to_49999
+118681598410,457656552,08/30/2024 04:17:38 PM,08/30/2024 04:17:56 PM,,,,,0106b852fc911e73da8b35b0ce,smc,Today,Google,,male,30_to_44,south_atlantic,ios_mobile,no_answer
+118681598345,457656552,08/30/2024 04:17:11 PM,08/30/2024 04:17:44 PM,,,,,52133ccf980462a2f60a79813c,smc,This week,Google,,male,45_to_60,west_south_central,ios_mobile,100000_to_124999
+118681598312,457656552,08/30/2024 04:17:04 PM,08/30/2024 04:17:40 PM,,,,,3585c312c1efc65d728c06639d,smc,Last hour,Google,,female,30_to_44,west_south_central,ios_mobile,200000_and_up
+118681598245,457656552,08/30/2024 04:17:10 PM,08/30/2024 04:17:30 PM,,,,,22012d9bbd0c9f0deafb4bdb88,smc,Today,Google,,male,60_above,east_north_central,android_mobile,75000_to_99999
+118681597919,457656552,08/30/2024 04:14:23 PM,08/30/2024 04:16:39 PM,,,,,e9c5dcce1c1fe46aaf0ffeb024,smc,Last hour,Google,,female,45_to_60,middle_atlantic,android_mobile,175000_to_199999
+118681597083,457656552,08/30/2024 04:14:12 PM,08/30/2024 04:14:32 PM,,,,,8167ccc6aec4549ed7f99b09b5,smc,Last hour,Google,,female,30_to_44,south_atlantic,android_mobile,25000_to_49999
+118681596992,457656552,08/30/2024 04:14:02 PM,08/30/2024 04:14:17 PM,,,,,0b85451aafe1f7b2050fceac6c,smc,Today,Google,,male,30_to_44,east_south_central,android_mobile,50000_to_74999
+118681595702,457656552,08/30/2024 04:10:25 PM,08/30/2024 04:10:41 PM,,,,,c14d3a83c397b8fe8534149c5a,smc,Yesterday,Google,,female,30_to_44,pacific,android_mobile,100000_to_124999
+118681595002,457656552,08/30/2024 04:08:22 PM,08/30/2024 04:08:40 PM,,,,,ce2e2932570596d3ba694e22b8,smc,Today,DuckDuckGo,,female,30_to_44,west_south_central,ios_mobile,75000_to_99999
+118681594819,457656552,08/30/2024 04:07:50 PM,08/30/2024 04:08:07 PM,,,,,0385c14e66439132df5e12f9e5,smc,Last hour,Google,,male,30_to_44,west_north_central,ios_mobile,50000_to_74999
+118681593865,457656552,08/30/2024 04:03:59 PM,08/30/2024 04:05:46 PM,,,,,d44f1ff1e828d852d85de8b0ca,smc,Last hour,ChatGPT,,female,30_to_44,middle_atlantic,android_mobile,100000_to_124999
+118681593264,457656552,08/30/2024 04:03:52 PM,08/30/2024 04:04:20 PM,,,,,f6297168f4dd621531d70d35c2,smc,Yesterday,DuckDuckGo,,female,30_to_44,new_england,android_mobile,50000_to_74999
+118681593180,457656552,08/30/2024 04:03:50 PM,08/30/2024 04:04:09 PM,,,,,e3063d90dc80db26d55c030716,smc,Last hour,Google,,female,30_to_44,east_north_central,android_mobile,25000_to_49999
+118681592913,457656552,08/30/2024 04:03:05 PM,08/30/2024 04:03:30 PM,,,,,6005e57a805bda98fbc6225e73,smc,Yesterday,DuckDuckGo,,female,60_above,south_atlantic,android_mobile,50000_to_74999
+118681592385,457656552,08/30/2024 04:01:54 PM,08/30/2024 04:02:15 PM,,,,,64f353f0097c52318779425295,smc,Last hour,DuckDuckGo,,male,18_to_29,west_south_central,android_mobile,0_to_9999
+118681591466,457656552,08/30/2024 03:59:38 PM,08/30/2024 03:59:55 PM,,,,,a9ca16efc26757e4853f9d0408,smc,Today,Google,,female,30_to_44,south_atlantic,android_mobile,50000_to_74999
+118681591427,457656552,08/30/2024 03:59:15 PM,08/30/2024 03:59:44 PM,,,,,7f0ecb436f1d3f5ea5f8a6eb7b,smc,Yesterday,Google,,male,60_above,pacific,android_mobile,25000_to_49999
+118681591366,457656552,08/30/2024 03:59:10 PM,08/30/2024 03:59:36 PM,,,,,b031161ca88e2e3c6d46034763,smc,Today,Google,,male,60_above,east_north_central,ios_mobile,25000_to_49999
+118681591226,457656552,08/30/2024 03:58:58 PM,08/30/2024 03:59:12 PM,,,,,6f9b6eeab3e86f402b0a6774d8,smc,Today,Google,,female,30_to_44,middle_atlantic,ios_mobile,25000_to_49999
+118681591087,457656552,08/30/2024 03:58:28 PM,08/30/2024 03:58:47 PM,,,,,8f9e1826c9c8310acf4ecd9e06,smc,Yesterday,Google,,female,60_above,mountain,android_mobile,75000_to_99999
+118681590624,457656552,08/30/2024 03:57:13 PM,08/30/2024 03:57:34 PM,,,,,a00c9d792f715562db8b90e1de,smc,This week,Google,,male,18_to_29,pacific,ios_mobile,50000_to_74999
+118681589090,457656552,08/30/2024 03:51:40 PM,08/30/2024 03:53:33 PM,,,,,0594b7cd7ab8c481a14b87d2f5,smc,Today,Google,,female,30_to_44,south_atlantic,android_mobile,75000_to_99999
+118681588345,457656552,08/30/2024 03:51:17 PM,08/30/2024 03:51:47 PM,,,,,0c36b21bf2b2db1fe087303678,smc,Last hour,Google,,female,45_to_60,west_south_central,ios_mobile,25000_to_49999
+118681588331,457656552,08/30/2024 03:51:27 PM,08/30/2024 03:51:45 PM,,,,,302578b381553920dbaf1ac401,smc,This week,Google,,female,45_to_60,east_north_central,ios_mobile,50000_to_74999
+118681588277,457656552,08/30/2024 03:51:20 PM,08/30/2024 03:51:35 PM,,,,,54307f3ef5b391395875bcefc2,smc,Last hour,Google,,female,45_to_60,west_north_central,android_mobile,100000_to_124999
+118681587492,457656552,08/30/2024 03:49:21 PM,08/30/2024 03:49:41 PM,,,,,dd4da61983b4d3497fcd28ab16,smc,Today,ChatGPT,,male,30_to_44,south_atlantic,android_mobile,150000_to_174999
+118681586383,457656552,08/30/2024 03:46:35 PM,08/30/2024 03:46:55 PM,,,,,3a32d71b23dcc502dcce0b31a7,smc,Today,Google,,female,30_to_44,pacific,android_mobile,125000_to_149999
+118681585837,457656552,08/30/2024 03:45:12 PM,08/30/2024 03:45:27 PM,,,,,512c3482ed6fd5ccd90bdf1692,smc,This week,Google,,female,30_to_44,pacific,ios_mobile,50000_to_74999
+118681585698,457656552,08/30/2024 03:44:40 PM,08/30/2024 03:45:06 PM,,,,,9ff49124e5711bb054f149c458,smc,Today,Google,,female,30_to_44,east_north_central,ios_mobile,75000_to_99999
+118681584983,457656552,08/30/2024 03:42:51 PM,08/30/2024 03:43:13 PM,,,,,8bff977100f1d804a7dc958177,smc,Today,Google,,female,30_to_44,mountain,android_mobile,50000_to_74999
+118681584350,457656552,08/30/2024 03:41:19 PM,08/30/2024 03:41:34 PM,,,,,c56613102d520de38da715532c,smc,Last hour,Google,,female,30_to_44,west_north_central,android_mobile,25000_to_49999
+118681582539,457656552,08/30/2024 03:37:03 PM,08/30/2024 03:37:14 PM,,,,,464ad39ba5edd78c43badcb6cd,smc,Last hour,Yahoo,,male,30_to_44,west_south_central,android_mobile,200000_and_up
+118681581653,457656552,08/30/2024 03:34:49 PM,08/30/2024 03:35:02 PM,,,,,950de3c7660b302aebab34cf20,smc,Last hour,Bing,,female,45_to_60,new_england,android_mobile,25000_to_49999
+118681581641,457656552,08/30/2024 03:34:46 PM,08/30/2024 03:35:00 PM,,,,,faa28bb673fd93c079f9ba96a7,smc,Last hour,Google,,female,45_to_60,middle_atlantic,android_mobile,75000_to_99999
+118681580359,457656552,08/30/2024 03:31:41 PM,08/30/2024 03:31:55 PM,,,,,e271e5e2b118d09a50bb9aa61a,smc,This week,Yahoo,,male,18_to_29,south_atlantic,android_mobile,0_to_9999
+118681580187,457656552,08/30/2024 03:31:09 PM,08/30/2024 03:31:28 PM,,,,,c04c475b4282e1767d96dac987,smc,Last hour,Google,,female,30_to_44,mountain,android_mobile,75000_to_99999
+118681580148,457656552,08/30/2024 03:31:00 PM,08/30/2024 03:31:26 PM,,,,,ee6ee010076811a4c33791e963,smc,Yesterday,Google,,female,30_to_44,south_atlantic,ios_mobile,75000_to_99999
+118681580146,457656552,08/30/2024 03:31:10 PM,08/30/2024 03:31:22 PM,,,,,49a895cfbfea685f86961c578a,smc,Today,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,125000_to_149999
+118681579342,457656552,08/30/2024 03:29:05 PM,08/30/2024 03:29:26 PM,,,,,f157b4477589e99557fdbf2697,smc,Last hour,ChatGPT,,female,18_to_29,south_atlantic,ios_mobile,25000_to_49999
+118681579223,457656552,08/30/2024 03:28:49 PM,08/30/2024 03:29:09 PM,,,,,93a74d2b485ebb1e0aea08ed2d,smc,Today,Google,,female,60_above,middle_atlantic,android_mobile,25000_to_49999
+118681579183,457656552,08/30/2024 03:28:44 PM,08/30/2024 03:29:04 PM,,,,,62e6864087a7c591035f775bb8,smc,Today,Google,,female,18_to_29,middle_atlantic,android_mobile,200000_and_up
+118681578221,457656552,08/30/2024 03:26:02 PM,08/30/2024 03:26:37 PM,,,,,06150fc350194e569ee242f8f4,smc,Yesterday,Other (please specify),YouTube,male,30_to_44,east_south_central,ios_mobile,25000_to_49999
+118681577922,457656552,08/30/2024 03:25:38 PM,08/30/2024 03:25:57 PM,,,,,93e5ecf302aef2759ffb82ea04,smc,Yesterday,Google,,male,30_to_44,middle_atlantic,android_mobile,50000_to_74999
+118681577165,457656552,08/30/2024 03:23:25 PM,08/30/2024 03:24:08 PM,,,,,fbf9895f0692f1271b8247e8ca,smc,Today,Google,,male,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681577062,457656552,08/30/2024 03:23:22 PM,08/30/2024 03:23:54 PM,,,,,404c0925cb0d85f9065d281d06,smc,Today,Google,,male,45_to_60,south_atlantic,android_mobile,25000_to_49999
+118681577027,457656552,08/30/2024 03:23:31 PM,08/30/2024 03:23:48 PM,,,,,dc0398d9ca97caed8ee2dd0682,smc,This month,Yahoo,,male,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681576973,457656552,08/30/2024 03:23:22 PM,08/30/2024 03:23:42 PM,,,,,5b3d32e93d31b772ce25ba088f,smc,Today,Google,,male,60_above,east_south_central,ios_mobile,100000_to_124999
+118681576024,457656552,08/30/2024 03:20:48 PM,08/30/2024 03:21:24 PM,,,,,be8179d85af0b63bf8de290f78,smc,Today,Google,,female,60_above,pacific,android_mobile,125000_to_149999
+118681575597,457656552,08/30/2024 03:20:08 PM,08/30/2024 03:20:21 PM,,,,,12380db2407747c099f88d32ec,smc,Today,Google,,male,18_to_29,west_south_central,ios_mobile,200000_and_up
+118681575327,457656552,08/30/2024 03:19:20 PM,08/30/2024 03:19:39 PM,,,,,3483ba610d08611a8f20d0a51a,smc,Last hour,Google,,female,30_to_44,south_atlantic,ios_mobile,25000_to_49999
+118681575322,457656552,08/30/2024 03:19:24 PM,08/30/2024 03:19:38 PM,,,,,fd966d6fefe64de2634c26d1e3,smc,Last hour,Google,,female,18_to_29,east_north_central,android_mobile,50000_to_74999
+118681574711,457656552,08/30/2024 03:17:54 PM,08/30/2024 03:18:10 PM,,,,,a77fb994c3bdb01ba2b9dcb2a4,smc,Today,Google,,female,18_to_29,east_north_central,ios_mobile,100000_to_124999
+118681573248,457656552,08/30/2024 03:14:43 PM,08/30/2024 03:14:54 PM,,,,,88730fa2368208053e9bcfb8d4,smc,Today,ChatGPT,,male,30_to_44,middle_atlantic,android_mobile,125000_to_149999
+118681573089,457656552,08/30/2024 03:14:07 PM,08/30/2024 03:14:33 PM,,,,,1d69239578569c133205fdc5a0,smc,Last hour,Google,,female,30_to_44,east_north_central,ios_mobile,125000_to_149999
+118681573082,457656552,08/30/2024 03:14:15 PM,08/30/2024 03:14:32 PM,,,,,182bf66aa7894b21f22fa3b3af,smc,Last hour,Google,,male,45_to_60,mountain,android_mobile,50000_to_74999
+118681572720,457656552,08/30/2024 03:13:00 PM,08/30/2024 03:13:48 PM,,,,,9db52d128b6291345671866284,smc,Today,Google,,male,30_to_44,pacific,android_mobile,125000_to_149999
+118681572473,457656552,08/30/2024 03:12:59 PM,08/30/2024 03:13:18 PM,,,,,50d66228e73db962db69f8c23c,smc,Today,Google,,female,45_to_60,middle_atlantic,ios_mobile,125000_to_149999
+118681571708,457656552,08/30/2024 03:11:20 PM,08/30/2024 03:11:33 PM,,,,,f84a8ca2658330f7f9a7523fc3,smc,Last hour,Google,,male,30_to_44,south_atlantic,android_mobile,75000_to_99999
+118681571506,457656552,08/30/2024 03:10:41 PM,08/30/2024 03:11:04 PM,,,,,2b70255c1b39aa638fc55a00c2,smc,Today,Google,,male,45_to_60,south_atlantic,ios_mobile,75000_to_99999
+118681569475,457656552,08/30/2024 03:06:19 PM,08/30/2024 03:06:46 PM,,,,,f31e4a3ef75aef85691e287e4d,smc,,Other (please specify),Siri,male,45_to_60,west_south_central,ios_mobile,75000_to_99999
+118681569180,457656552,08/30/2024 03:05:49 PM,08/30/2024 03:06:04 PM,,,,,bf8d66af4199a67a5f5c1b7c54,smc,Last hour,Google,,female,30_to_44,,android_mobile,0_to_9999
+118681568462,457656552,08/30/2024 03:04:25 PM,08/30/2024 03:04:37 PM,,,,,5b2eb0a161ef9993e097ae2964,smc,Last hour,Google,,male,18_to_29,middle_atlantic,android_mobile,100000_to_124999
+118681567806,457656552,08/30/2024 03:02:53 PM,08/30/2024 03:03:11 PM,,,,,309a5a3e253ccb4511993c0e14,smc,Today,Google,,female,60_above,east_north_central,android_mobile,25000_to_49999
+118681566861,457656552,08/30/2024 03:00:41 PM,08/30/2024 03:01:08 PM,,,,,2489fdec89e0536f57f9c0dc58,smc,Yesterday,DuckDuckGo,,male,18_to_29,south_atlantic,ios_mobile,75000_to_99999
+118681566840,457656552,08/30/2024 02:58:20 PM,08/30/2024 03:01:05 PM,,,,,a50569bbeaf763f5cd5276c771,smc,Yesterday,Yahoo,,male,30_to_44,middle_atlantic,android_mobile,25000_to_49999
+118681565905,457656552,08/30/2024 02:58:52 PM,08/30/2024 02:59:06 PM,,,,,34582607a507fa243438b369c5,smc,Last hour,Google,,female,30_to_44,east_south_central,android_mobile,75000_to_99999
+118681565280,457656552,08/30/2024 02:56:50 PM,08/30/2024 02:57:45 PM,,,,,19b8b000f9ab3c61d875ebed30,smc,Yesterday,Google,,male,30_to_44,east_south_central,android_mobile,25000_to_49999
+118681564373,457656552,08/30/2024 02:51:22 PM,08/30/2024 02:55:55 PM,,,,,44dbba5777b371ac48680a302b,smc,Last hour,Google,,male,30_to_44,pacific,android_mobile,200000_and_up
+118681564202,457656552,08/30/2024 02:55:18 PM,08/30/2024 02:55:32 PM,,,,,1c4ae98b502113c874f7981c7e,smc,Today,ChatGPT,,male,30_to_44,pacific,ios_mobile,50000_to_74999
+118681564050,457656552,08/30/2024 02:54:54 PM,08/30/2024 02:55:12 PM,,,,,201f7f6e5503db9f10605844f1,smc,Last hour,ChatGPT,,male,30_to_44,east_south_central,android_mobile,150000_to_174999
+118681563744,457656552,08/30/2024 02:54:14 PM,08/30/2024 02:54:31 PM,,,,,6ff21e35a7bb76b1d4280eddba,smc,Yesterday,Google,,female,60_above,pacific,pc_windows,75000_to_99999
+118681562981,457656552,08/30/2024 02:52:37 PM,08/30/2024 02:52:53 PM,,,,,6a34fdf5aa966ab8d916a3f213,smc,Today,Google,,female,30_to_44,middle_atlantic,android_mobile,75000_to_99999
+118681562712,457656552,08/30/2024 02:51:33 PM,08/30/2024 02:52:18 PM,,,,,5e5c080cab4fe716d510bfbc3e,smc,This month,Google,,male,30_to_44,pacific,android_mobile,200000_and_up
+118681562435,457656552,08/30/2024 02:51:19 PM,08/30/2024 02:51:41 PM,,,,,cd2edc76fb0e838e6d5776dc92,smc,Last hour,Google,,male,30_to_44,,android_mobile,200000_and_up
+118681562301,457656552,08/30/2024 02:51:09 PM,08/30/2024 02:51:25 PM,,,,,f06c29a3b0cceb87b98fad9300,smc,Today,Google,,male,30_to_44,middle_atlantic,android_mobile,100000_to_124999
+118681562242,457656552,08/30/2024 02:51:06 PM,08/30/2024 02:51:17 PM,,,,,29c4f921a2ad745b91b0d40bb0,smc,Today,Google,,male,30_to_44,pacific,android_mobile,75000_to_99999
+118681560216,457656552,08/30/2024 02:46:52 PM,08/30/2024 02:47:04 PM,,,,,a5fdf3661aa2ea3d1cb6c6f17a,smc,Today,Google,,female,30_to_44,west_south_central,ios_mobile,50000_to_74999
+118681559917,457656552,08/30/2024 02:46:13 PM,08/30/2024 02:46:28 PM,,,,,dfeb34cb5efc7ab55ad36bebcf,smc,Today,Google,,female,45_to_60,east_north_central,ios_mobile,125000_to_149999
+118681559055,457656552,08/30/2024 02:44:20 PM,08/30/2024 02:44:39 PM,,,,,3efe8b40817efe8ee3778a5be3,smc,This week,Google,,male,30_to_44,east_north_central,ios_mobile,125000_to_149999
+118681558617,457656552,08/30/2024 02:43:28 PM,08/30/2024 02:43:45 PM,,,,,2a831161e07053df6a2a873fc0,smc,Today,Google,,female,30_to_44,east_north_central,ios_mobile,75000_to_99999
+118681558498,457656552,08/30/2024 02:43:06 PM,08/30/2024 02:43:29 PM,,,,,3b9d1a7dcdd9ecedb86a26ca5f,smc,This week,Google,,male,30_to_44,pacific,android_mobile,10000_to_24999
+118681558230,457656552,08/30/2024 02:42:39 PM,08/30/2024 02:42:52 PM,,,,,fb3b1c9abff827496c6a2a2997,smc,Today,Google,,female,30_to_44,south_atlantic,android_mobile,25000_to_49999
+118681557426,457656552,08/30/2024 02:41:05 PM,08/30/2024 02:41:15 PM,,,,,9bd41a684ce26e3603b8cd073d,smc,Today,ChatGPT,,male,18_to_29,south_atlantic,ios_mobile,50000_to_74999
+118681556834,457656552,08/30/2024 02:39:49 PM,08/30/2024 02:40:03 PM,,,,,67fcbd678475e22b04dbda9a0a,smc,Today,Google,,female,30_to_44,middle_atlantic,android_mobile,100000_to_124999
+118681556462,457656552,08/30/2024 02:39:00 PM,08/30/2024 02:39:20 PM,,,,,8279a8a8ad7456c173fc93803e,smc,Today,ChatGPT,,female,30_to_44,middle_atlantic,android_mobile,175000_to_199999
+118681556229,457656552,08/30/2024 02:38:20 PM,08/30/2024 02:38:52 PM,,,,,25219dccb15c50cd161fce0776,smc,Last hour,Other (please specify),Safari,female,60_above,middle_atlantic,ios_mobile,25000_to_49999
+118681556141,457656552,08/30/2024 02:38:25 PM,08/30/2024 02:38:43 PM,,,,,8201f5cc1682d4797a973e06e1,smc,Today,ChatGPT,,male,45_to_60,south_atlantic,android_mobile,100000_to_124999
+118681556080,457656552,08/30/2024 02:38:11 PM,08/30/2024 02:38:35 PM,,,,,49faa247b40f07405feb5874fd,smc,Today,DuckDuckGo,,male,60_above,middle_atlantic,ios_mobile,50000_to_74999
+118681556066,457656552,08/30/2024 02:38:23 PM,08/30/2024 02:38:33 PM,,,,,16c008e6be5f6410acecfc4c88,smc,Yesterday,Perplexity,,male,45_to_60,middle_atlantic,android_mobile,175000_to_199999
+118681556016,457656552,08/30/2024 02:38:13 PM,08/30/2024 02:38:27 PM,,,,,981763c5bb279aceb07c83fc31,smc,Today,DuckDuckGo,,male,60_above,east_north_central,ios_mobile,75000_to_99999
+118681555565,457656552,08/30/2024 02:36:57 PM,08/30/2024 02:37:27 PM,,,,,8cdccf1e220210c2c39022d6b5,smc,Last hour,Other (please specify),gemini,female,30_to_44,pacific,android_mobile,25000_to_49999
+118681553830,457656552,08/30/2024 02:33:50 PM,08/30/2024 02:33:59 PM,,,,,aadab8cc1af6d7d92115d5c5d8,smc,This week,Bing,,female,18_to_29,west_south_central,ios_mobile,50000_to_74999
+118681553678,457656552,08/30/2024 02:33:06 PM,08/30/2024 02:33:40 PM,,,,,569e19d900038cdd411923aa71,smc,Last hour,Google,,male,30_to_44,pacific,android_mobile,75000_to_99999
+118681552531,457656552,08/30/2024 02:30:47 PM,08/30/2024 02:31:18 PM,,,,,52ef24f726dd22df6ef2c6453c,smc,Yesterday,Google,,female,60_above,east_south_central,ios_mobile,10000_to_24999
+118681548500,457656552,08/30/2024 02:21:31 PM,08/30/2024 02:23:29 PM,,,,,c5c85cad419ace3f06589b0b04,smc,Today,Google,,male,45_to_60,,android_mobile,200000_and_up
+118681548431,457656552,08/30/2024 02:23:04 PM,08/30/2024 02:23:18 PM,,,,,90bbe71ec1709d8cfed039afa2,smc,Last hour,Google,,female,18_to_29,east_south_central,ios_mobile,25000_to_49999
+118681547589,457656552,08/30/2024 02:21:23 PM,08/30/2024 02:21:40 PM,,,,,903e9c4a38eff1158f10d03af3,smc,Last hour,Google,,male,60_above,new_england,pc_windows,125000_to_149999
+118681545774,457656552,08/30/2024 02:17:49 PM,08/30/2024 02:18:07 PM,,,,,ab3d5638c446e62f38a6e9ae37,smc,Yesterday,Bing,,male,45_to_60,east_north_central,ios_mobile,10000_to_24999
+118681545060,457656552,08/30/2024 02:16:22 PM,08/30/2024 02:16:41 PM,,,,,ff93e926c24983bec2b354f938,smc,Today,Google,,female,60_above,mountain,android_mobile,25000_to_49999
+118681545051,457656552,08/30/2024 02:16:20 PM,08/30/2024 02:16:39 PM,,,,,0c7ce1bb490c49f1ac2430ead4,smc,Today,Google,,female,60_above,pacific,ios_mobile,150000_to_174999
+118681544238,457656552,08/30/2024 02:14:42 PM,08/30/2024 02:14:58 PM,,,,,8d5abe2cf81204a6cbf14faa59,smc,Today,Google,,male,30_to_44,south_atlantic,android_mobile,150000_to_174999
+118681543849,457656552,08/30/2024 02:14:03 PM,08/30/2024 02:14:15 PM,,,,,01e6731ce736397a9d1d145776,smc,Today,Google,,female,30_to_44,middle_atlantic,android_mobile,75000_to_99999
+118681543776,457656552,08/30/2024 02:13:53 PM,08/30/2024 02:14:08 PM,,,,,387c621351626570517c98e845,smc,Yesterday,ChatGPT,,female,18_to_29,middle_atlantic,android_mobile,0_to_9999
+118681543479,457656552,08/30/2024 02:13:10 PM,08/30/2024 02:13:33 PM,,,,,630e921d26284f18976e290011,smc,Today,Google,,female,45_to_60,west_south_central,ios_mobile,125000_to_149999
+118681542484,457656552,08/30/2024 02:11:07 PM,08/30/2024 02:11:32 PM,,,,,adda3e1cea80424af61ca1c7c3,smc,Yesterday,Google,,male,60_above,south_atlantic,ios_mobile,50000_to_74999
+118681537565,457656552,08/30/2024 02:02:15 PM,08/30/2024 02:02:34 PM,,,,,e0cb523fa030b24101ebc205b3,smc,Today,Google,,female,30_to_44,east_north_central,android_mobile,100000_to_124999
+118681534996,457656552,08/30/2024 01:58:20 PM,08/30/2024 01:58:42 PM,,,,,ee8f46bcea1639beeaa2536d31,smc,Last hour,Claude,,female,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681534929,457656552,08/30/2024 01:58:22 PM,08/30/2024 01:58:36 PM,,,,,5182d4ae1fbe432a29ef56eba2,smc,This month,Google,,female,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681533442,457656552,08/30/2024 01:55:35 PM,08/30/2024 01:55:58 PM,,,,,3b041b6930039c1abdd67efc5a,smc,Today,Google,,female,30_to_44,east_north_central,android_mobile,no_answer
+118681530227,457656552,08/30/2024 01:50:07 PM,08/30/2024 01:50:21 PM,,,,,faa7304ee1ffea2df7c08435f1,smc,Last hour,Google,,female,30_to_44,middle_atlantic,ios_mobile,100000_to_124999
+118681529250,457656552,08/30/2024 01:46:45 PM,08/30/2024 01:48:31 PM,,,,,b02ba6be771680cfd4d581fc43,smc,Last hour,ChatGPT,,male,45_to_60,west_south_central,android_mobile,100000_to_124999
+118681528673,457656552,08/30/2024 01:47:05 PM,08/30/2024 01:47:29 PM,,,,,9f881f569926706ab189e99942,smc,This week,Google,,female,45_to_60,middle_atlantic,android_mobile,200000_and_up
+118681528090,457656552,08/30/2024 01:46:05 PM,08/30/2024 01:46:25 PM,,,,,60590c139a25ed86ec4d88d180,smc,This month,Google,,female,45_to_60,west_north_central,android_mobile,10000_to_24999
+118681527560,457656552,08/30/2024 01:45:19 PM,08/30/2024 01:45:32 PM,,,,,3647ce98141a2e244293e81624,smc,Last hour,Google,,female,60_above,pacific,android_mobile,no_answer
+118681527264,457656552,08/30/2024 01:44:42 PM,08/30/2024 01:45:08 PM,,,,,633b98121fc852e9d182ad7eb1,smc,Today,Yahoo,,male,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681527163,457656552,08/30/2024 01:44:34 PM,08/30/2024 01:44:55 PM,,,,,5378c0756c8b2ad34f1d254c7a,smc,Last hour,Yahoo,,male,45_to_60,middle_atlantic,android_mobile,100000_to_124999
+118681525493,457656552,08/30/2024 01:42:02 PM,08/30/2024 01:42:26 PM,,,,,5737e49bc7a3a8a132dab6b535,smc,This week,Google,,female,60_above,new_england,android_mobile,10000_to_24999
+118681520875,457656552,08/30/2024 01:34:05 PM,08/30/2024 01:34:37 PM,,,,,286f09739ea2f60bfe63fa0fa5,smc,Today,Bing,,female,45_to_60,middle_atlantic,ios_mobile,75000_to_99999
+118681520357,457656552,08/30/2024 01:26:30 PM,08/30/2024 01:33:48 PM,,,,,e0936cbe2503e978a02baf05be,smc,Last hour,Google,,female,30_to_44,south_atlantic,ios_mobile,125000_to_149999
+118681518361,457656552,08/30/2024 01:30:04 PM,08/30/2024 01:30:21 PM,,,,,f8afac18998d01f57fdb0d5cd4,smc,Last hour,Google,,female,30_to_44,west_south_central,android_mobile,25000_to_49999
+118681517455,457656552,08/30/2024 01:27:26 PM,08/30/2024 01:28:41 PM,,,,,f3c66b96667fb13575e73b8065,smc,Yesterday,Google,,female,45_to_60,south_atlantic,android_mobile,10000_to_24999
+118681517394,457656552,08/30/2024 01:28:22 PM,08/30/2024 01:28:35 PM,,,,,44b81822b07571761c255793b4,smc,Last hour,Perplexity,,female,18_to_29,south_atlantic,ios_mobile,200000_and_up
+118681517082,457656552,08/30/2024 01:27:21 PM,08/30/2024 01:28:06 PM,,,,,71d24d682094423b0b196fd909,smc,This week,Google,,female,30_to_44,west_north_central,android_mobile,25000_to_49999
+118681516542,457656552,08/30/2024 01:26:52 PM,08/30/2024 01:27:07 PM,,,,,89c2da5e9a021215b1195a6295,smc,Last hour,Google,,female,30_to_44,south_atlantic,ios_mobile,50000_to_74999
+118681516422,457656552,08/30/2024 01:26:29 PM,08/30/2024 01:26:53 PM,,,,,bfb343bf6bb952a5d15c9f155d,smc,Yesterday,Google,,female,18_to_29,south_atlantic,ios_mobile,50000_to_74999
+118681516394,457656552,08/30/2024 01:26:24 PM,08/30/2024 01:26:49 PM,,,,,232c97bf798c4567ae71bc42ba,smc,Last hour,DuckDuckGo,,male,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681516375,457656552,08/30/2024 01:26:31 PM,08/30/2024 01:26:48 PM,,,,,c4e20e5939adcf610768b393d5,smc,Yesterday,Bing,,female,30_to_44,middle_atlantic,android_mobile,125000_to_149999
+118681516321,457656552,08/30/2024 01:26:31 PM,08/30/2024 01:26:41 PM,,,,,510baf1a80e403d0bfe00d6c81,smc,Yesterday,Google,,female,45_to_60,middle_atlantic,android_mobile,175000_to_199999
+118681516318,457656552,08/30/2024 01:26:19 PM,08/30/2024 01:26:41 PM,,,,,06a6833571e2da1007eb199f1d,smc,Last hour,Google,,male,18_to_29,mountain,android_mobile,25000_to_49999
+118681516265,457656552,08/30/2024 01:26:22 PM,08/30/2024 01:26:36 PM,,,,,e1d535bc4bb9f9ef0d3d4be6ab,smc,Today,ChatGPT,,male,60_above,middle_atlantic,android_mobile,150000_to_174999
+118681516208,457656552,08/30/2024 01:26:20 PM,08/30/2024 01:26:32 PM,,,,,ef43dd1ed1e1851af287a74bad,smc,Today,Perplexity,,male,18_to_29,,android_mobile,10000_to_24999
+118681516182,457656552,08/30/2024 01:26:17 PM,08/30/2024 01:26:29 PM,,,,,bd26d48afd437c2831720a997d,smc,Yesterday,Yahoo,,male,30_to_44,,ios_mobile,no_answer
+118681516173,457656552,08/30/2024 01:26:17 PM,08/30/2024 01:26:28 PM,,,,,b703f74a8673cf379e7dda704a,smc,Today,Google,,male,18_to_29,new_england,android_mobile,75000_to_99999
