@@ -1,5 +1,4 @@
-Respondent ID,Collector ID,Start Date,End Date,IP Address,Email Address,First Name,Last Name,Custom Data 1,collector_type_source,When was the last time you searched for answers to your questions online?,Which of the following tools did you use to find answers to your questions? Select the one you used first if you used multiple.,,Gender,Age,Major US Region,Device,Household Income
-,,,,,,,,,,Response,Response,Other (please specify),,,,,
+respondent_id,collector_id,start_date,end_date,ip_address,email,first_name,last_name,custom_data_1,collector_type_source,last_search,which_tool,other_text,gender,age,region,device,household_income
 118682919118,457665022,09/02/2024 02:44:30 PM,09/02/2024 02:44:47 PM,,,,,5a0e17a374a15a72007d3d8e10,smc,Last hour,ChatGPT,,male,45_to_60,middle_atlantic,android_mobile,175000_to_199999
 118682918552,457665022,09/02/2024 02:42:33 PM,09/02/2024 02:43:02 PM,,,,,32f999bc50f36b3a958ae0bb01,smc,Yesterday,Google,,female,45_to_60,mountain,ios_mobile,10000_to_24999
 118682918058,457665022,09/02/2024 02:38:45 PM,09/02/2024 02:41:44 PM,,,,,c3439343438fab260ef9af795b,smc,,ChatGPT,,male,30_to_44,middle_atlantic,android_mobile,175000_to_199999
